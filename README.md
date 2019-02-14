@@ -20,4 +20,4 @@ Introduction to java programming for getting start android developing. This cour
 * Java Abstract Class
 * Java Polymorphism
 * Java Enums
-* Project1: Calculator!
+* Project1:
